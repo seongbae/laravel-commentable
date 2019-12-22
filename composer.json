@@ -1,6 +1,6 @@
 {
-    "name": "artisanry/commentable",
-    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
+    "name": "seongbae/commentable",
+    "description": "Laravel Commentable with fix for the config name",
     "keywords": [
         "laravel",
         "framework",
